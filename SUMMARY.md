@@ -1,7 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [What is VOA](/what-is-voa.md)
-
-
+* [Old Exprcise Machine Gets Boost From Lady Gaga,LeBron](/what-is-voa.md)
 
